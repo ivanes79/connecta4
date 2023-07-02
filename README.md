@@ -1,10 +1,10 @@
 # Resolución de Problemas con OOP y TDD e Intro a la IA y Machine Learning
 
-Parte del pre-boot estandar de KeepCoding
+JUego conecta 4
 
 ### Descripción
 
-Los alumnos crearán un juego de turnos que aprende de sus propios errores.
+Creacion de un juego de turnos que aprende de sus propios errores.
 
 ### Contenido
 
