@@ -1,6 +1,6 @@
 # Resolución de Problemas con OOP y TDD e Intro a la IA y Machine Learning
 
-JUego conecta 4
+Juego conecta 4
 
 ### Descripción
 
